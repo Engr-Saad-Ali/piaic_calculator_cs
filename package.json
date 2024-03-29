@@ -1,0 +1,26 @@
+{
+  "name": "calculator_piaic_cs",
+  "version": "1.0.0",
+  "description": "an npm package assignment 1 calculator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eng_Saad Ali",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@types/inquirer": "9.0.7",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Engr-Saad-Ali/piaic_calculator_cs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Engr-Saad-Ali/piaic_calculator_cs/issues"
+  },
+  "homepage": "https://github.com/Engr-Saad-Ali/piaic_calculator_cs#readme"
+}
